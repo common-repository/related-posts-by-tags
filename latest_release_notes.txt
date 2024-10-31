@@ -1,0 +1,4 @@
+*Version: 1.2*
+*Date: 2009-03-19*
+
+* Show list of posts elsewhere: In addition to showing the list of related posts in a widget, it can be added to the end of a post on a single page, or to the end of a post in the RSS feed, or both.
